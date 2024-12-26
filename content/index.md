@@ -1,7 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Vault
 ---
 
-[[空き家]]
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Aquí podemos ir recogiendo la información que encontremos entre todos [[空き家]] :)
